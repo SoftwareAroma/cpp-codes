@@ -1,0 +1,3 @@
+D:/DEV/C++/tournament/cmake-build-debug/CMakeFiles/tournament.dir
+D:/DEV/C++/tournament/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DEV/C++/tournament/cmake-build-debug/CMakeFiles/rebuild_cache.dir
